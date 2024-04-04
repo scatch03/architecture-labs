@@ -1,7 +1,7 @@
 package org.example;
 
 /**
- * Implementation before refactoring.
+ * Implementation after refactoring.
  */
 public class Output {
 
